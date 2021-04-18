@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T17:56:32.276Z" agent="5.0 (Macintosh)" etag="2IgqdxHcvXbyCA4OzY7v" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T19:23:40.272Z" agent="5.0 (Macintosh)" etag="Hul0qCRXr8CRY_gz8-RP" version="14.6.1" type="github">
   <diagram id="hkUKVAphAMezJ2__QRPF" name="Page-1">
-    <mxGraphModel dx="1241" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=none;startFill=0;" edge="1" parent="1" source="PPyIZ7dVhFgzQ_1O-O67-1" target="PPyIZ7dVhFgzQ_1O-O67-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-8" value="UNDERPINNED BY / UNDERPINS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-7">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-8" value="&lt;div&gt;UNDERPINNED BY&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-7">
           <mxGeometry x="-0.5333" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-2" value="BUSINESS CAPABILITY&lt;br&gt;cmdb_ci_business_capability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-2" value="&lt;b&gt;BUSINESS CAPABILITY&lt;/b&gt;&lt;br&gt;cmdb_ci_business_capability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="300" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=open;startFill=0;" edge="1" parent="1" source="PPyIZ7dVhFgzQ_1O-O67-1" target="PPyIZ7dVhFgzQ_1O-O67-2">
@@ -21,7 +21,7 @@
             <mxPoint x="670" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-4" value="UNDERPINNED BY / UNDERPINS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-3">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-4" value="&lt;div&gt;UNDERPINNED BY &lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-3">
           <mxGeometry x="0.4" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -32,7 +32,7 @@
             <mxPoint x="490" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-11" value="UNDERPINNED BY / UNDERPINS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-10">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-11" value="UNDERPINNED BY" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-10">
           <mxGeometry x="-0.2435" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -43,18 +43,18 @@
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="PPyIZ7dVhFgzQ_1O-O67-17" target="PPyIZ7dVhFgzQ_1O-O67-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-22" value="SUPPORTED BY / SUPPORTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-21">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-22" value="SUPPORTED BY" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-21">
           <mxGeometry x="0.3558" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-34" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-17" value="BUSINESS APPLICATION&lt;br&gt;cmdb_ci_business_app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-17" value="&lt;b&gt;BUSINESS APPLICATION&lt;/b&gt;&lt;br&gt;cmdb_ci_business_app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="95" y="300" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="630" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-5" value="&lt;div&gt;APPLICATION SERVICE&lt;br&gt;cmdb_ci_service_auto&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-18">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-5" value="&lt;div&gt;&lt;b&gt;APPLICATION SERVICE&lt;/b&gt;&lt;br&gt;cmdb_ci_service_auto&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[ cmdb_ci_service ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-18">
           <mxGeometry width="175.3125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-13" value="Service type that is a logical representation of a deployed application stack. Can have one per environment or region" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-18">
@@ -63,7 +63,7 @@
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="510" y="810" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-6" value="TECHNICAL SERVICE&lt;br&gt;cmdb_ci_service_technical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-19">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-6" value="&lt;b&gt;TECHNICAL SERVICE&lt;/b&gt;&lt;br&gt;cmdb_ci_service_technical&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[ cmdb_ci_service ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-19">
           <mxGeometry width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-14" value="Service type that is published to service owners and typically underpins one or more business or application services" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-19">
@@ -75,7 +75,7 @@
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="500" y="517.5" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-1" value="BUSINESS SERVICE&lt;br&gt;cmdb_ci_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-20">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-1" value="&lt;b&gt;BUSINESS SERVICE&lt;/b&gt;&lt;br&gt;cmdb_ci_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-20">
           <mxGeometry width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-12" value="Service type that is published to business users, and it typically underpins one or more business capabilities" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-20">
@@ -87,9 +87,32 @@
         <mxCell id="PPyIZ7dVhFgzQ_1O-O67-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PPyIZ7dVhFgzQ_1O-O67-5" target="PPyIZ7dVhFgzQ_1O-O67-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-26" value="UNDERPINNED BY / UNDERPINS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-25">
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-26" value="CONSUMES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontStyle=0" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-25">
           <mxGeometry x="0.362" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-27" value="&lt;h1&gt;Application vs.&lt;br&gt;Business Application&lt;/h1&gt;&lt;p&gt;The application table is not intended to be an inventory or portfolio of your applications. Those inventory/portfolio objects belong in the Business Application table. In the context of ServiceNow, applications are limited to single host and are meant to be those uniquely discoverable instances of code running on a host. Applications are considered to part of the infrastructure configuration items&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="10" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="1070" width="530" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-29" value="&lt;b&gt;TS OFFERING&lt;/b&gt;&lt;br&gt;service_offering&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[ cmdb_ci_service ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-28">
+          <mxGeometry x="-21.61" width="208.2142857142857" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-30" value="Stratification (grouping) of Technical Services into properties like pricing, region, environment, etc. Different levels of performance and features for a given technical service can be made available via the &lt;b&gt;technical service offering&lt;/b&gt;. A service commitment defines service delivery obligations agreed to between consumer and provider. There is also a concept of a service offering subscription that records which users have access to an offering" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="PPyIZ7dVhFgzQ_1O-O67-28">
+          <mxGeometry x="200.00285714285712" y="-18.75" width="302.85714285714283" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="PPyIZ7dVhFgzQ_1O-O67-28" source="PPyIZ7dVhFgzQ_1O-O67-29" target="PPyIZ7dVhFgzQ_1O-O67-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PPyIZ7dVhFgzQ_1O-O67-6" target="PPyIZ7dVhFgzQ_1O-O67-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PPyIZ7dVhFgzQ_1O-O67-39" value="DEPENDS ON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="PPyIZ7dVhFgzQ_1O-O67-38">
+          <mxGeometry x="0.0211" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
